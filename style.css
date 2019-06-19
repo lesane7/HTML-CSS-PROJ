@@ -1,0 +1,26 @@
+div:first-child{
+ text-align: center;
+  color: rgb(80, 94, 41);
+}
+
+h1{
+  text-align: center;
+  font-family: verdana;
+  color: rgb(121, 151, 64);
+}
+h2, h3{
+  text-align: center;
+  font-family: sans-serif;
+  color: rgb(26, 24, 29);
+  
+}
+
+p{
+  text-align: center
+  
+}
+article{
+  padding: 15px;
+  text-align: center;
+}
+
